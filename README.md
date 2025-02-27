@@ -9,13 +9,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://hoo-bank-sooty-beta.vercel.app/">
+  <a href="https://xora-omega-nine.vercel.app/">
     <img src="./public/favicon.ico" alt="Logo" height="80"  >
   </a>
   <h1 align="center">Xora</h1>
 
   <p align="center">
-    <a href="https://hoo-bank-sooty-beta.vercel.app/">View Demo</a>
+    <a href="https://xora-omega-nine.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/SalahShallapy/Xora/issues">Report Bug</a>
   </p>
